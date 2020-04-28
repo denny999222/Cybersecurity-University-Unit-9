@@ -15,13 +15,13 @@ The six possible exploits are:
 
 Each color is vulnerable to only 2 of the 6 possible exploits. First discover which color has the specific vulnerability, then write a short description of how to exploit it, and finally demonstrate it using screenshots compiled into a GIF.
 
-## Blue
+## Green
 
 Vulnerability #1: Username Enumeration
 
 Description:
 
-<img src="blue-vuln1.gif">
+<img src="User_Enumeration.gif">
 
 Vulnerability #2: __________________
 
