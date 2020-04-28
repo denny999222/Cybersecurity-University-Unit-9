@@ -23,11 +23,11 @@ Description:
 
 <img src="User_Enumeration.gif">
 
-Vulnerability #2: __________________
+Vulnerability #2: SQL Injection
 
 Description:
 
-<img src="blue-vuln2.gif">
+<img src="SQL_Injection.gif">
 
 ## Red
 
