@@ -44,13 +44,13 @@ Description:
 <img src="green-vuln2.gif">
 
 
-## Red
+## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session_Hijacking
 
 Description:
 
-<img src="red-vuln1.gif">
+<img src="Session_Hijacking.gif">
 
 Vulnerability #2: __________________
 
