@@ -29,13 +29,13 @@ Description:
 
 <img src="blue-vuln2.gif">
 
-## Green
+## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR
 
 Description:
 
-<img src="green-vuln1.gif">
+<img src="IDOR.gif">
 
 Vulnerability #2: __________________
 
