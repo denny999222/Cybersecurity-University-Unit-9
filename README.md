@@ -46,11 +46,11 @@ Description:
 
 ## Blue
 
-Vulnerability #1: Session_Hijacking
+Vulnerability #1: Session Hijacking
 
 Description: Open 2 tabs. Left if logged in. Right is not logged in. Using the session id I simply copied it and pasted on the right tab, which allowed me to penetrate
 
-<img src="Session_Hijacking.gif">
+<img src="Session_hijacking.gif">
 
 Vulnerability #2: __________________
 
