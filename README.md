@@ -27,7 +27,7 @@ Vulnerability #2: SQL Injection
 
 Description:
 
-<img src="SQL_Injection.gif">
+<img src="SQL_injection.gif">
 
 ## Red
 
