@@ -19,13 +19,13 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 Vulnerability #1: Username Enumeration
 
-Description:
+Description: Username jmonroe99 does not exist and it says login unsuccessful. When it does exist, it gets a bolded text
 
 <img src="User_Enumeration.gif">
 
 Vulnerability #2: SQL Injection
 
-Description:
+Description: Attempted to change id=1 to ?id=' OR 1=1' on url. It returned an alert saying that the sql query failed.
 
 <img src="SQL_injection.gif">
 
@@ -33,7 +33,7 @@ Description:
 
 Vulnerability #1: IDOR
 
-Description:
+Description: Change id= inside url and discovered accounts I shouldn't have access to.
 
 <img src="IDOR.gif">
 
