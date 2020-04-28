@@ -48,7 +48,7 @@ Description:
 
 Vulnerability #1: Session_Hijacking
 
-Description:
+Description: Open 2 tabs. Left if logged in. Right is not logged in. Using the session id I simply copied it and pasted on the right tab, which allowed me to penetrate
 
 <img src="Session_Hijacking.gif">
 
